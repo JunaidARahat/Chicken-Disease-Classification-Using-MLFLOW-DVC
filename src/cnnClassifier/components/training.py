@@ -1,4 +1,4 @@
-from src.cnnClassifier.entity.config_entity import TrainingConfig
+from cnnClassifier.entity.config_entity import TrainingConfig
 import tensorflow as tf
 import os
 import urllib.request as request
